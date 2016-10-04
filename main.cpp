@@ -1,6 +1,7 @@
 #include <iostream>
 
 using namespace std;
+// This program is just an example one under VCS.
 
 int main()
 {
